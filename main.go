@@ -15,6 +15,9 @@ func main() {
 
 	r2 := fmt.Sprintf("%f", r1)
 	fmt.Printf("r2 = %s\n", r2)
+
+	var s1 = conv.Sub(3.7)
+	fmt.Printf("s1 = %f\n", s1)
 }
 
 func Float64ToString(input_num float64) string {
