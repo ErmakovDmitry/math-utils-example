@@ -1,4 +1,4 @@
-module mod
+module math-utils-example
 
 go 1.23.2
 
